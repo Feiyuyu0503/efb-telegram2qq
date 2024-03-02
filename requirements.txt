@@ -1,0 +1,9 @@
+setuptools
+wheel
+ehforwarderbot
+efb-telegram-master
+efb-qq-slave
+git+https://github.com/ehForwarderBot/efb-qq-plugin-go-cqhttp
+Werkzeug==2.3.0
+
+
